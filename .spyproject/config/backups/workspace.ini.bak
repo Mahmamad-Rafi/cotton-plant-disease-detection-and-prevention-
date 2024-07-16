@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['templates\\index.html', 'app.py', 'templates\\healthy_plant.html', 'templates\\healthy_cotton_leaf.html', 'templates\\disease_Aphids.html', 'templates\\disease_Bacterial_Blight.html', 'templates\\disease_boll_rot.html', 'templates\\disease_leaf_curl.html', 'templates\\disease_powdery_Mildew.html', 'templates\\disease_target_spot.html', 'templates\\disease_wilt.html']
+
+[main]
+version = 0.2.0
+recent_files = []
+
